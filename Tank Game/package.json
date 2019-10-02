@@ -1,0 +1,25 @@
+{
+  "name": "comp397-f2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TBriggz/Tank-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TBriggz/Tank-Game/issues"
+  },
+  "homepage": "https://github.com/TBriggz/Tank-Game#readme",
+  "devDependencies": {
+    "@types/easeljs": "^1.0.0",
+    "@types/preloadjs": "^0.6.32",
+    "@types/soundjs": "^0.6.27",
+    "@types/tweenjs": "^1.0.0"
+  }
+}
